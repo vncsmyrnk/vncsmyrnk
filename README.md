@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vncsmyrnk
-- 👀 I’m interested in programming and DevOps in specific
+- 👀 I’m interested in programming and Data Science in specific
 - 💞️ I’m looking to collaborate on agile teams CI/CD oriented
 - 📫 Reach me on vmayrink12@gmail.com or https://www.linkedin.com/in/vncsmyrnk
 
