@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vncsmyrnk
 - 👀 I’m interested in Web Development, programming, AI and Machine Learning
-- 📫 Reach me on vmayrink12@gmail.com or https://www.linkedin.com/in/vncsmyrnk
+- 📫 Reach me on vncsmyrnk@gmail.com or https://www.linkedin.com/in/vncsmyrnk
 - 👉 Check my work: https://vncsmyrnk.github.io/portfolio/
 
 <!---
